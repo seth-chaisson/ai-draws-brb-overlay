@@ -6,5 +6,5 @@ export default {
   afterDrawTime: 5000,
   numRedrawsForHint: 2,
   numRedrawsForQuit: 4,
-  loadingTimeOut: 500,
+  loadingTimeOut: 3000,
 };
