@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel ./public/index.html",
+    "dev": "parcel ./public/index.html -p 1235",
     "production": "parcel build ./overlay/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
